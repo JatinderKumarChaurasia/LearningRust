@@ -1,0 +1,10 @@
+# First Build Cargo.toml file 
+# .toml --> Tom Obvious Minimal Language
+# cargo build
+# cargo run
+
+
+[package]
+name = "hello_world"
+version = "0.0.1"
+authors = ["Jatinder Kumar Chaurasia <Jatinder>"]
